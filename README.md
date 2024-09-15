@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jasmine</h1>
-<h3 align="center">A passionate HR Analyst interested in working </h3>
+<h3 align="center">A passionate HR  & Data Analyst interested in working </h3>
 
 
 - 🔭 I’m currently working on **Python,SQL,Excel**
