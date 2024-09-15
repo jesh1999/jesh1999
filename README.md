@@ -1,17 +1,10 @@
+<h1 align="center">Hi there 👋, I'm Jasmine</h1>  
+<h3 align="center">A passionate HR professional & Data Analyst, driven by a love for learning and innovation</h3>  🔭 I’m currently honing my skills in Python, SQL, and Excel
 
-<h1 align="center">Hi 👋, I'm Jasmine</h1>
-<h3 align="center">A passionate HR  & Data Analyst interested in working </h3>
+🌱 Actively learning and exploring deeper insights in Python (Pandas, NumPy), SQL
 
+🤝 Open to guidance and collaboration on advanced Excel and SQL projects
 
-- 🔭 I’m currently working on **Python,SQL,Excel**
+💬 Feel free to ask me about Python (Pandas, NumPy), SQL, Excel
 
-- 🌱 I’m currently learning **Python, SQL**
-
-- 👯 I’m looking to collaborate on **on nothing**
-
-- 🤝 I’m looking for help with **Excel, SQL**
-
-- 💬 Ask me about ** , Python( pandas,Numpy), SQL,Excel**
-
-- ⚡ Fun fact **😂i am a Joker**
-
+⚡ Fun fact: I’m known to bring humor and joy wherever I go! 😄
