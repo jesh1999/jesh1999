@@ -6,7 +6,7 @@
 <h3 align="center">A passionate HR professional & Data Analyst, committed to driving innovation through data and people management</h3>  
 
 <p align="center">  
-<img src="/mnt/data/file-Td8rYDvqcSNPv6iCVk32OcaC" alt="Jasmine" width="150" />  
+<img src="/mnt/data/file-[Td8rYDvqcSNPv6iCVk32OcaC](https://www.cleanpng.com/png-business-woman-cartoon-fashion-professional-attire-7990663/)" alt="Jasmine" width="150" />  
 </p>  
 
 <p align="center">  
