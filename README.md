@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hi there 👋, I'm Jasmine</h1>  
-<h3 align="center">A passionate HR professional & Data Analyst, committed to driving innovation through data and people management</h3>  
+<h3 align="center">A passionate Data Analyst, committed to driving innovation through data and people management</h3>  
 
 
 <p align="center">  
