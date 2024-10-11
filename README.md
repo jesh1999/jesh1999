@@ -1,9 +1,1 @@
-<h1 align="center">Hi there 👋, I'm Jasmeen</h1>
-<h3 align="center">MBA Graduate | Data Analyst</h3>
-<p align="center">
-  🔍 Passionate about transforming data into actionable insights <br>
-  💻 Skilled in Power BI, Excel, SQL, & Python <br>
-  📊 Experienced in data visualization and analysis <br>
-  🤝 Open to collaborations in data analytics projects <br>
-  🌟 Let’s connect and explore data-driven solutions together! 😉
-</p>
+<h1 align="center">Hi there 👋, I'm Jasmeen</h1> <h3 align="center">MBA Graduate | Data Analyst | Data-Driven Problem Solver</h3> <p align="center"> 🚀 Passionate about transforming complex data into impactful insights that drive business growth <br> 💼 Proficient in Power BI, Excel, SQL, & Python for advanced data analytics and visualization <br> 📊 Skilled in uncovering trends, optimizing processes, and creating actionable data strategies <br> 🤝 Eager to collaborate on innovative data projects and solve real-world challenges <br> 🌟 Let’s connect and harness the power of data to create meaningful solutions! 💡 </p>
