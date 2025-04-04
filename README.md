@@ -1,15 +1,13 @@
 <h1 align="center">
-Hi there 👋, I'm Jasmeen
+Hey there 👋, I'm Jasmeen!
 </h1>
 <h3 align="center">
-MBA | Data Analyst | Problem Solver</h3>
+🚀 MBA Grad | Data Whisperer 📊 | Insight-Driven Storyteller
+</h3>
 
 <p align="center">
-  
-🚀 Turning complex data into clear insights <br>
-💼 Skilled in Power BI, Excel, SQL, & Python <br>
-📊 Focused on trends, optimization, and actionable strategies <br>
-🤝 Let's connect and create data-driven solutions together! 🌟
-
+✨ Transforming raw data into meaningful narratives<br>
+🛠 Proficient in Power BI, Excel, SQL, Python — analytics is my playground<br>
+📈 Passionate about uncovering trends, driving efficiency & solving real-world problems<br>
+🌐 Let’s collaborate and turn data into decisions that matter! 🤝📌
 </p>
-
