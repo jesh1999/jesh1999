@@ -1,15 +1,10 @@
 <div align="left">
-  <h1>
-    Hey there 👋, I'm Jasmeen!
-  </h1>
+
+  <h1>Hi there 👋 I'm <span style="color:#FF69B4;">Jasmeen</span></h1>
+
   <h3>
-    🚀 MBA Grad | Data Whisperer 📊 | Insight-Driven Storyteller
+    🎓 <b>MBA Graduate</b> | 📊 <b>Data & Business Analyst</b> | 🧠 <b>Insight-Driven Problem Solver</b>
   </h3>
 
   <p>
-    ✨ Transforming raw data into meaningful narratives <br>
-    🛠 Proficient in Power BI, Excel, SQL, Python — analytics is my playground <br>
-    📈 Passionate about uncovering trends, driving efficiency & solving real-world problems <br>
-    🌐 Let’s collaborate and turn data into decisions that matter! 🤝📌
-  </p>
-</div>
+    🔍 <b>Curious by nature</b>, analytical by profession — I specialize in turning data into strategies that drive results.<br
