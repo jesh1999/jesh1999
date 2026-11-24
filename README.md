@@ -131,7 +131,6 @@ I work on projects that combine data analytics, financial services and business 
 I am always interested in connecting with professionals, learning about financial markets and exploring opportunities in banking and financial operations.
 
 - **GitHub:** [@jesh1999](https://github.com/jesh1999)
-- **LinkedIn:** Add your LinkedIn profile URL
 
 ---
 
