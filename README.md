@@ -15,10 +15,9 @@ I am passionate about financial markets, securities operations, data analysis an
 ## 👩‍💻 About Me
 
 - 🎓 MBA in Human Resources Management from Central University of Odisha, Koraput.
-- 💼 8 months of experience as an Equity Relationship Manager at ICICI Securities.
 - 📚 Currently pursuing CIBOP(S) – Imarticus Learning.
-- 📈 Interested in Capital Markets, Securities Operations and Investment Banking Operations.
-- 📊 Skilled in data analysis, reporting and business intelligence tools.
+- 📈 Interested in Capital Markets, Securities Operations, and Investment Banking Operations.
+- 📊 Skilled in data analysis, reporting, and business intelligence tools.
 - 🎯 Aspiring to build a career in back-office financial operations and global banking services.
 
 ---
